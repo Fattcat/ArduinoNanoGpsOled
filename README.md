@@ -13,3 +13,4 @@ GPS NEO 6M Module --> Arduino Nano
 - GND --> GND
 - TX --> D5
 - RX --> D6
+# Check photo of connection name : 20230824_212912.heic
